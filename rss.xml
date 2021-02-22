@@ -4,7 +4,7 @@
   <subtitle>HAX + 11ty = bliss</subtitle>
   <link href="https://techwithjoe.github.io/hax11ty/rss.xml" rel="self"/>
   <link href="https://techwithjoe.github.io/hax11ty"/>
-  <updated>2021-02-22T00:16:05.676+00:00</updated>
+  <updated>2021-02-22T00:22:43.804+00:00</updated>
   <id>https://techwithjoe.github.io/hax11ty</id>
   <author>
     <name>EdTechJoker</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>End</title>
     <link href="https://techwithjoe.github.io/hax11ty/content/1_about/"/>
-    <updated>2021-02-22T00:16:05.676+00:00</updated>
+    <updated>2021-02-22T00:22:43.804+00:00</updated>
     <id>https://techwithjoe.github.io/hax11ty/content/1_about/</id>
     <content type="html">&lt;p&gt;I Used the templete at https://github.com/elmsln/hax11ty to make this website
 &lt;ul&gt;
@@ -29,7 +29,7 @@
   <entry>
     <title>Installation</title>
     <link href="https://techwithjoe.github.io/hax11ty/content/2_install/"/>
-    <updated>2021-02-22T00:16:05.676+00:00</updated>
+    <updated>2021-02-22T00:22:43.804+00:00</updated>
     <id>https://techwithjoe.github.io/hax11ty/content/2_install/</id>
     <content type="html">&lt;code-sample copy-clipboard-button=&quot;&quot;&gt;
 &lt;template&gt;
@@ -44,27 +44,19 @@
   </entry>
   
   <entry>
-    <title>Why HAX11ty</title>
+    <title>Java Lab</title>
     <link href="https://techwithjoe.github.io/hax11ty/content/3_why/"/>
-    <updated>2021-02-22T00:16:05.676+00:00</updated>
+    <updated>2021-02-22T00:22:43.804+00:00</updated>
     <id>https://techwithjoe.github.io/hax11ty/content/3_why/</id>
     <content type="html">&lt;p&gt;&lt;ul&gt;
-    &lt;li&gt;Power of &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; for publishing static / high SEO&lt;/li&gt;
-    &lt;li&gt;Easier than 11ty, 0 config solution for publishing&lt;/li&gt;
-    &lt;li&gt;Power of HAXcms for rocket fast PWA in a forever format&lt;/li&gt;
-    &lt;li&gt;Extendable via web components&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://haxtheweb.org/&quot;&gt;HAX&lt;/a&gt; as web editor to skip markdown&lt;/li&gt;
-    &lt;li&gt;Easy github pages based publishing workflow&lt;/li&gt;
-    &lt;li&gt;All files requiring change are in &lt;code&gt;src/&lt;/code&gt; directory&lt;/li&gt;
-    &lt;li&gt;Output can plug into &lt;a href=&quot;https://github.com/elmsln/haxcms&quot;&gt;HAXcms SaaS&lt;/a&gt; and &lt;a href=&quot;https://github.com/elmsln/haxiam&quot;&gt;HAXcms PaaS&lt;/a&gt; solutions&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-&lt;h3&gt;Performance&lt;/h3&gt;
-&lt;p&gt;High lighthouse scores are achieved with certain constraints that will keep it from hitting max possible scores:
+  &lt;p&gt; My Thrid Lab pertained to the Use of Java while fiddeling with my HTML Resume: https://dev.to/techwithjoe/how-to-get-started-with-implementing-vue-js-to-existing-work-18j6
+&lt;/p&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;
 &lt;ul&gt;
-    &lt;li&gt;We keep things unbundled to allow for maximal reuse. This has an initial performance hit in the name of page to page speed.&lt;/li&gt;
-    &lt;li&gt;We do this so that if you put, for example, meme-maker into a page of content, hax11ty will generate the preload statements for that element from the CDN. This is done on a page by page level.&lt;/li&gt;
-    &lt;li&gt;That&#39;s it. All other mettrics we can hit the same scores as any other app!&lt;/li&gt;
+    &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/p&gt;</content>
+&lt;/p&gt;
+</content>
   </entry>
 </feed>
