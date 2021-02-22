@@ -1,4 +1,4 @@
-<p>HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:
+<p>I Used the templete at https://github.com/elmsln/hax11ty to make this website
 <ul>
   <li>User edits via HAX (future) or modifies files locally</li>
   <li>hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen</li>
