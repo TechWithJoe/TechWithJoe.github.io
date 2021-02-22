@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>HAX11TY doc site</title>
   <subtitle>HAX + 11ty = bliss</subtitle>
-  <link href="https://TechWithJoe.github.io/hax11ty/rss.xml" rel="self"/>
-  <link href="https://TechWithJoe.github.io/hax11ty"/>
-  <updated>2021-02-22T00:40:11.748+00:00</updated>
-  <id>https://TechWithJoe.github.io/hax11ty</id>
+  <link href="https://TechWithJoe.github.io/myblog/rss.xml" rel="self"/>
+  <link href="https://TechWithJoe.github.io/myblog"/>
+  <updated>2021-02-22T04:15:41.788+00:00</updated>
+  <id>https://TechWithJoe.github.io/myblog</id>
   <author>
     <name>EdTechJoker</name>
     <email>hax@psu.edu
@@ -13,9 +13,9 @@
   
   <entry>
     <title>End</title>
-    <link href="https://TechWithJoe.github.io/hax11ty/content/1_about/"/>
-    <updated>2021-02-22T00:40:11.748+00:00</updated>
-    <id>https://TechWithJoe.github.io/hax11ty/content/1_about/</id>
+    <link href="https://TechWithJoe.github.io/myblog/content/1_about/"/>
+    <updated>2021-02-22T04:15:41.788+00:00</updated>
+    <id>https://TechWithJoe.github.io/myblog/content/1_about/</id>
     <content type="html">&lt;p&gt;I Used the templete at https://github.com/elmsln/hax11ty to make this website
 &lt;ul&gt;
   &lt;li&gt;User edits via HAX (future) or modifies files locally&lt;/li&gt;
@@ -28,9 +28,9 @@
   
   <entry>
     <title>Installation</title>
-    <link href="https://TechWithJoe.github.io/hax11ty/content/2_install/"/>
-    <updated>2021-02-22T00:40:11.748+00:00</updated>
-    <id>https://TechWithJoe.github.io/hax11ty/content/2_install/</id>
+    <link href="https://TechWithJoe.github.io/myblog/content/2_install/"/>
+    <updated>2021-02-22T04:15:41.788+00:00</updated>
+    <id>https://TechWithJoe.github.io/myblog/content/2_install/</id>
     <content type="html">&lt;code-sample copy-clipboard-button=&quot;&quot;&gt;
 &lt;template&gt;
   git clone https://github.com/elmsln/hax11ty.git
@@ -45,9 +45,9 @@
   
   <entry>
     <title>Java Lab</title>
-    <link href="https://TechWithJoe.github.io/hax11ty/content/3_why/"/>
-    <updated>2021-02-22T00:40:11.748+00:00</updated>
-    <id>https://TechWithJoe.github.io/hax11ty/content/3_why/</id>
+    <link href="https://TechWithJoe.github.io/myblog/content/3_why/"/>
+    <updated>2021-02-22T04:15:41.788+00:00</updated>
+    <id>https://TechWithJoe.github.io/myblog/content/3_why/</id>
     <content type="html">&lt;p&gt;&lt;ul&gt;
   &lt;p&gt; My Thrid Lab pertained to the Use of Java while fiddeling with my HTML Resume: https://dev.to/techwithjoe/how-to-get-started-with-implementing-vue-js-to-existing-work-18j6
 &lt;/p&gt;&lt;/ul&gt;&lt;/p&gt;

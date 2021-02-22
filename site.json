@@ -1,5 +1,5 @@
 {
-  "id": "#b514cc8f-d8cf-23f7-e5a4-2b71d6e1b961",
+  "id": "#1491779c-d5f5-16a8-6061-0ac7879d5456",
   "title": "HAX11TY doc site",
   "author": "EdTechJoker",
   "description": "HAX + 11ty = bliss",
@@ -13,15 +13,15 @@
     },
     "site": {
       "name": "elmsln",
-      "created": 1613954437177,
-      "updated": 1613954437177,
+      "created": 1613967362628,
+      "updated": 1613967362628,
       "git": {
         "autoPush": false,
         "branch": "master",
         "staticBranch": "gh-pages",
         "vendor": "github",
-        "publicRepoUrl": "https://github.com/TechWithJoe/hax11ty/blob/master/src/",
-        "url": "git@github.com:TechWithJoe/hax11ty.git"
+        "publicRepoUrl": "https://github.com/TechWithJoe/myblog/blob/master/src/",
+        "url": "git@github.com:TechWithJoe/myblog.git"
       },
       "version": "1.2.9-11ty",
       "domain": "https://localhost:8000",
@@ -58,8 +58,8 @@
       "description": "End",
       "parent": null,
       "metadata": {
-        "created": 1613954412,
-        "updated": 1613954412,
+        "created": 1613967342,
+        "updated": 1613967342,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1613954412,
-        "updated": 1613954412,
+        "created": 1613967342,
+        "updated": 1613967342,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Java Lab",
       "parent": null,
       "metadata": {
-        "created": 1613954412,
-        "updated": 1613954412,
+        "created": 1613967342,
+        "updated": 1613967342,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
