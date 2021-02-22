@@ -8,7 +8,7 @@ module.exports = () => {
     var gitOrg = "TechWithJoe";
     // project name
     // github.com/elmsln/WHATEVER - hax11ty here implies building against the repo itself to produce it's own docs :)
-    var gitProject = "hax11ty";
+    var gitProject = "myblog";
     // URL, default for local testing
     var url = "https://localhost:8000";
     // CDN for requesting the location of the build directory
