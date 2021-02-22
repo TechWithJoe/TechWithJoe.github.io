@@ -8,6 +8,5 @@ slug:
 <h3></h3>
 <p>
 <ul>
-    <li></li>
 </ul>
 </p>
