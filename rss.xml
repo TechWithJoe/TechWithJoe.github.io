@@ -4,7 +4,7 @@
   <subtitle>HAX + 11ty = bliss</subtitle>
   <link href="https://techwithjoe.github.io/hax11ty/rss.xml" rel="self"/>
   <link href="https://techwithjoe.github.io/hax11ty"/>
-  <updated>2021-02-22T00:22:43.804+00:00</updated>
+  <updated>2021-02-22T00:23:03.052+00:00</updated>
   <id>https://techwithjoe.github.io/hax11ty</id>
   <author>
     <name>EdTechJoker</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>End</title>
     <link href="https://techwithjoe.github.io/hax11ty/content/1_about/"/>
-    <updated>2021-02-22T00:22:43.804+00:00</updated>
+    <updated>2021-02-22T00:23:03.052+00:00</updated>
     <id>https://techwithjoe.github.io/hax11ty/content/1_about/</id>
     <content type="html">&lt;p&gt;I Used the templete at https://github.com/elmsln/hax11ty to make this website
 &lt;ul&gt;
@@ -29,7 +29,7 @@
   <entry>
     <title>Installation</title>
     <link href="https://techwithjoe.github.io/hax11ty/content/2_install/"/>
-    <updated>2021-02-22T00:22:43.804+00:00</updated>
+    <updated>2021-02-22T00:23:03.052+00:00</updated>
     <id>https://techwithjoe.github.io/hax11ty/content/2_install/</id>
     <content type="html">&lt;code-sample copy-clipboard-button=&quot;&quot;&gt;
 &lt;template&gt;
@@ -46,7 +46,7 @@
   <entry>
     <title>Java Lab</title>
     <link href="https://techwithjoe.github.io/hax11ty/content/3_why/"/>
-    <updated>2021-02-22T00:22:43.804+00:00</updated>
+    <updated>2021-02-22T00:23:03.052+00:00</updated>
     <id>https://techwithjoe.github.io/hax11ty/content/3_why/</id>
     <content type="html">&lt;p&gt;&lt;ul&gt;
   &lt;p&gt; My Thrid Lab pertained to the Use of Java while fiddeling with my HTML Resume: https://dev.to/techwithjoe/how-to-get-started-with-implementing-vue-js-to-existing-work-18j6
@@ -54,7 +54,6 @@
 &lt;h3&gt;&lt;/h3&gt;
 &lt;p&gt;
 &lt;ul&gt;
-    &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 </content>

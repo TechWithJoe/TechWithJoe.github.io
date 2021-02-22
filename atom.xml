@@ -3,7 +3,7 @@
   <title>HAX11TY doc site</title>
   <link href="https://techwithjoe.github.io/hax11ty/atom.xml" rel="self" />
   <subtitle>HAX + 11ty = bliss</subtitle>
-  <updated>2021-02-22T00:22:43.804+00:00</updated>
+  <updated>2021-02-22T00:23:03.052+00:00</updated>
   <author>
       <name>EdTechJoker</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>End</title>
     <id>https://techwithjoe.github.io/hax11ty/content/1_about/</id>
-    <updated>2021-02-22T00:22:43.804+00:00</updated>
-    <published>2021-02-22T00:22:43.804+00:00</published>
+    <updated>2021-02-22T00:23:03.052+00:00</updated>
+    <published>2021-02-22T00:23:03.052+00:00</published>
     <summary></summary>
     <link href="https://techwithjoe.github.io/hax11ty/content/1_about/"/>
     <content type="html">
@@ -29,8 +29,8 @@
   <entry>
     <title>Installation</title>
     <id>https://techwithjoe.github.io/hax11ty/content/2_install/</id>
-    <updated>2021-02-22T00:22:43.804+00:00</updated>
-    <published>2021-02-22T00:22:43.804+00:00</published>
+    <updated>2021-02-22T00:23:03.052+00:00</updated>
+    <published>2021-02-22T00:23:03.052+00:00</published>
     <summary></summary>
     <link href="https://techwithjoe.github.io/hax11ty/content/2_install/"/>
     <content type="html">
@@ -49,8 +49,8 @@
   <entry>
     <title>Java Lab</title>
     <id>https://techwithjoe.github.io/hax11ty/content/3_why/</id>
-    <updated>2021-02-22T00:22:43.804+00:00</updated>
-    <published>2021-02-22T00:22:43.804+00:00</published>
+    <updated>2021-02-22T00:23:03.052+00:00</updated>
+    <published>2021-02-22T00:23:03.052+00:00</published>
     <summary></summary>
     <link href="https://techwithjoe.github.io/hax11ty/content/3_why/"/>
     <content type="html">
@@ -60,7 +60,6 @@
 &lt;h3&gt;&lt;/h3&gt;
 &lt;p&gt;
 &lt;ul&gt;
-    &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 
