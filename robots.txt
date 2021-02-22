@@ -1,4 +1,4 @@
-Sitemap: https://techwithjoe.github.io/hax11ty/sitemap.xml
+Sitemap: https://TechWithJoe.github.io/hax11ty/sitemap.xml
 User-agent: *
 Crawl-delay: 10
 # CSS, JS, Images

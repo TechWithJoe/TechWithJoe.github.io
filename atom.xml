@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>HAX11TY doc site</title>
-  <link href="https://techwithjoe.github.io/hax11ty/atom.xml" rel="self" />
+  <link href="https://TechWithJoe.github.io/hax11ty/atom.xml" rel="self" />
   <subtitle>HAX + 11ty = bliss</subtitle>
-  <updated>2021-02-22T00:23:03.052+00:00</updated>
+  <updated>2021-02-22T00:40:11.748+00:00</updated>
   <author>
       <name>EdTechJoker</name>
   </author>
-  <id>https://techwithjoe.github.io/hax11ty/atom.xml</id>
+  <id>https://TechWithJoe.github.io/hax11ty/atom.xml</id>
   <entry>
     <title>End</title>
-    <id>https://techwithjoe.github.io/hax11ty/content/1_about/</id>
-    <updated>2021-02-22T00:23:03.052+00:00</updated>
-    <published>2021-02-22T00:23:03.052+00:00</published>
+    <id>https://TechWithJoe.github.io/hax11ty/content/1_about/</id>
+    <updated>2021-02-22T00:40:11.748+00:00</updated>
+    <published>2021-02-22T00:40:11.748+00:00</published>
     <summary></summary>
-    <link href="https://techwithjoe.github.io/hax11ty/content/1_about/"/>
+    <link href="https://TechWithJoe.github.io/hax11ty/content/1_about/"/>
     <content type="html">
       &lt;p&gt;I Used the templete at https://github.com/elmsln/hax11ty to make this website
 &lt;ul&gt;
@@ -28,11 +28,11 @@
   </entry>
   <entry>
     <title>Installation</title>
-    <id>https://techwithjoe.github.io/hax11ty/content/2_install/</id>
-    <updated>2021-02-22T00:23:03.052+00:00</updated>
-    <published>2021-02-22T00:23:03.052+00:00</published>
+    <id>https://TechWithJoe.github.io/hax11ty/content/2_install/</id>
+    <updated>2021-02-22T00:40:11.748+00:00</updated>
+    <published>2021-02-22T00:40:11.748+00:00</published>
     <summary></summary>
-    <link href="https://techwithjoe.github.io/hax11ty/content/2_install/"/>
+    <link href="https://TechWithJoe.github.io/hax11ty/content/2_install/"/>
     <content type="html">
       &lt;code-sample copy-clipboard-button&gt;
 &lt;template&gt;
@@ -48,11 +48,11 @@
   </entry>
   <entry>
     <title>Java Lab</title>
-    <id>https://techwithjoe.github.io/hax11ty/content/3_why/</id>
-    <updated>2021-02-22T00:23:03.052+00:00</updated>
-    <published>2021-02-22T00:23:03.052+00:00</published>
+    <id>https://TechWithJoe.github.io/hax11ty/content/3_why/</id>
+    <updated>2021-02-22T00:40:11.748+00:00</updated>
+    <published>2021-02-22T00:40:11.748+00:00</published>
     <summary></summary>
-    <link href="https://techwithjoe.github.io/hax11ty/content/3_why/"/>
+    <link href="https://TechWithJoe.github.io/hax11ty/content/3_why/"/>
     <content type="html">
       &lt;p&gt;&lt;ul&gt;
   &lt;p&gt; My Thrid Lab pertained to the Use of Java while fiddeling with my HTML Resume: https://dev.to/techwithjoe/how-to-get-started-with-implementing-vue-js-to-existing-work-18j6
